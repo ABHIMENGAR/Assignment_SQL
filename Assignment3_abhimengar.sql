@@ -1,4 +1,4 @@
-create table company1 ( EID int, Ename varchar(20), Department varchar(20), Salary money )
+ create table company1 ( EID int, Ename varchar(20), Department varchar(20), Salary money )
 
 insert into company1 values
 (101,'ABHI','DEVOPS',70000),
